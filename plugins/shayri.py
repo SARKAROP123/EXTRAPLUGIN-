@@ -67,7 +67,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/about_me_ankit"
+                        "✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url=f"https://t.me/SHYR_LOVER"
                     ),
                     InlineKeyboardButton(
                         "✨𝙾𝙵𝙵𝙸𝙲𝙴✨", url=f"https://t.me/about_me_ankit"
